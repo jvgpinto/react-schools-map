@@ -1,4 +1,11 @@
+//Built-in
 import React from 'react';
+//External
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+//Internal
 import logo from './logo.svg';
 import './App.css';
 
